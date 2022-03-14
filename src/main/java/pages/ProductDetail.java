@@ -1,11 +1,11 @@
-package pages.opcion2;
+package pages;
 
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-public class ProductDetailPage {
+public class ProductDetail extends BasePage{
+
     @FindBy(xpath = "//div[@class='inventory_details_name large_size']")
     WebElement title;
 
@@ -15,17 +15,24 @@ public class ProductDetailPage {
     @FindBy(id = "add-to-cart-sauce-labs-backpack")
     WebElement addToCarButton;
 
-    WebDriver driver;
 
-    public ProductDetailPage(WebDriver driver) {
-        this.driver = driver;
+
+    public ProductDetail(){
+        this.driver = getDriver();
         PageFactory.initElements(driver, this);
     }
 
-    public String clickOnAddToCarAndGetPriceAndTitle() {
-        String priceAndTitle = "Price: " + price.getText() + " Title: " + title.getText();
-        addToCarButton.click();
-        return priceAndTitle;
+    public String getTitle(){
+        return title.getText();
+    }
 
+    public String getPrice(){
+        return price.getText();
+    }
+
+    public void ClickAddToCarButton(){
+        addToCarButton.click();
     }
 }
+
+
