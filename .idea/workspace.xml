@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94c5711e-f821-4b95-8cb9-7dc017d5f594" name="Changes" comment="" />
+    <list default="true" id="68567259-13e8-4cbf-a1c9-1e2bb1b768c9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +17,15 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="269gMXrZctXBvfy2fq3bQ8l1aXl" />
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="26T7Y50GtLR8dOKcgQkmxKlqRMM" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,25 +33,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../QATesting-1erEntrega/QATesting-1erEntrega" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
-  <component name="RunManager" selected="JUnit.SauceDemoTest.LoginTestValidCredentials">
-    <configuration name="EntregaIntermedia.LoginTestValidCredentials" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="Test.categoriesLaptops" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Practica" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="EntregaIntermedia" />
-      <option name="METHOD_NAME" value="LoginTestValidCredentials" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SauceDemoTest.LoginTestValidCredentials" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Practica" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SauceDemoTest" />
-      <option name="METHOD_NAME" value="LoginTestValidCredentials" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="METHOD_NAME" value="categoriesLaptops" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -51,19 +47,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SauceDemoTest.LoginTestValidCredentials" />
-        <item itemvalue="JUnit.EntregaIntermedia.LoginTestValidCredentials" />
+        <item itemvalue="JUnit.Test.categoriesLaptops" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="94c5711e-f821-4b95-8cb9-7dc017d5f594" name="Changes" comment="" />
-      <created>1646841171216</created>
+      <changelist id="68567259-13e8-4cbf-a1c9-1e2bb1b768c9" name="Changes" comment="" />
+      <created>1647435768229</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1646841171216</updated>
+      <updated>1647435768229</updated>
     </task>
     <servers />
   </component>
