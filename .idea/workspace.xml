@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68567259-13e8-4cbf-a1c9-1e2bb1b768c9" name="Changes" comment="" />
+    <list default="true" id="e221f46e-c12f-4818-b555-b5d4a0187176" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,15 +17,7 @@
       </list>
     </option>
   </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
-  </component>
-  <component name="ProjectId" id="26T7Y50GtLR8dOKcgQkmxKlqRMM" />
+  <component name="ProjectId" id="26ZGfWPTVJFCw1IvrGYZPNsIYAG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,32 +25,71 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager">
-    <configuration name="Test.categoriesLaptops" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Practica" />
+  <component name="RunManager" selected="JUnit.EjercicioFinal">
+    <configuration name="EjercicioFinal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="afterclass" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="EjercicioFinal" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjercicioFinal.categoriesLaptops" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="afterclass" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EjercicioFinal" />
       <option name="METHOD_NAME" value="categoriesLaptops" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DataProviderTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="afterclass" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DataProviderTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataProviderTest.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="afterclass" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DataProviderTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Test.categoriesLaptops" />
+        <item itemvalue="JUnit.EjercicioFinal" />
+        <item itemvalue="JUnit.EjercicioFinal.categoriesLaptops" />
+        <item itemvalue="TestNG.DataProviderTest.test" />
+        <item itemvalue="TestNG.DataProviderTest" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="68567259-13e8-4cbf-a1c9-1e2bb1b768c9" name="Changes" comment="" />
-      <created>1647435768229</created>
+      <changelist id="e221f46e-c12f-4818-b555-b5d4a0187176" name="Changes" comment="" />
+      <created>1647623803203</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1647435768229</updated>
+      <updated>1647623803203</updated>
     </task>
     <servers />
   </component>
